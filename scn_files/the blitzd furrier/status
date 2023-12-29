@@ -1,0 +1,185 @@
+{saveinfo
+	{version 3}
+	{gameVersion "1.029.0"}
+	{timestamp 1688868535}
+	{mods
+		"mod_2515872768:0"
+	}
+	{mp 1436.85}
+	{sp 2.25}
+	{ap 4798.51}
+	{rp 3.25}
+	{seed 3747791138}
+	{name "the blitzd furrier"}
+	{army ger}
+	{ownAlliance axis}
+	{enemyAlliance allies}
+	{difficulty normal}
+	{duration 4}
+	{resources 2}
+	{fogofwar fog_realistic}
+	{manualControlMode 3}
+	{selectedMapPoint point_1_3}
+	{attacking 0}
+	{unlockedResearch {"reinforcement_stage_2"}
+		{"panzer1b"}
+		{"squad_regular_con(ger)"}
+		{"47mm_pakt"}
+		{"panzer2c"}
+		{"pz35t"}
+		{"pz38t_a"}
+		{"defense_level_1"}
+		{"mg34_lafette"}
+		{"mg42_lafette"}
+		{"reinforcement_stage_3"}
+		{"squad_officer_con(ger)"}
+		{"105mm_lefh18_smoke_barrage"}
+		{"ammo_trailer"}
+		{"blitz3_6_art_ammo"}
+		{"conquest_fi156"}
+		{"single_sniper(ger)"}
+		{"squad_recon_con(ger)"}
+		{"reinforcement_stage_4"}
+		{"squad_officer_kubel_con"}
+		{"105mm_lefh18_artillery_barrage"}
+		{"marder2"}
+		{"panzer2f"}
+		{"reinforcement_stage_5"}
+		{"squad_jaeger_con(ger)"}
+		{"squad_officer_250_3_con"}
+		{"single_ap_miner(ger)"}
+		{"single_at_miner(ger)"}
+		{"single_engineer(ger)"}
+		{"single_flamer(ger)"}
+		{"squad_fallschirmjaeger_con(ger)"}
+		{"squad_gebirgsjaeger_con(ger)"}
+		{"conquest_bf110"}
+		{"hetzer"}
+		{"marder3m"}
+		{"pz38t_f"}
+		{"pz38t_g"}
+		{"squad_fallschirmjaeger_motor_con"}
+	}
+	{mapPoints {
+			{name hq_a}
+			{landscape wood}
+			{gamemode campaign_capture_the_flag}
+			{ownerTeam a}
+			{adjacentMaps {"point_1_1" "point_1_2" "point_1_3"}}
+			{risk low}
+			{reward none}
+		}
+		{
+			{name hq_b}
+			{landscape wood}
+			{gamemode campaign_capture_the_flag}
+			{ownerTeam b}
+			{adjacentMaps {"point_2_1" "point_2_3" "point_2_2"}}
+			{risk low}
+			{reward none}
+		}
+		{
+			{name point_1_1}
+			{landscape winter}
+			{gamemode campaign_capture_the_flag}
+			{ownerTeam a}
+			{adjacentMaps {"hq_a" "point_2_1"}}
+			{risk low}
+			{reward none}
+		}
+		{
+			{name point_1_2}
+			{landscape wood}
+			{gamemode campaign_capture_the_flag}
+			{ownerTeam a}
+			{adjacentMaps {"hq_a" "point_2_1" "point_2_3" "point_2_2"}}
+			{risk low}
+			{reward none}
+		}
+		{
+			{name point_1_3}
+			{landscape desert}
+			{gamemode campaign_capture_the_flag}
+			{ownerTeam a}
+			{adjacentMaps {"hq_a" "point_2_3"}}
+			{risk standard}
+			{reward ammodepot}
+			{map "multi/dcg_hungarian_swamps:campaign_capture_the_flag:4x4"}
+			{texmod winter}
+			{nextEnemyArmy rus}
+		}
+		{
+			{name point_2_1}
+			{landscape winter}
+			{gamemode campaign_capture_the_flag}
+			{ownerTeam b}
+			{adjacentMaps {"point_1_1" "point_1_2" "hq_b"}}
+			{risk low}
+			{reward none}
+		}
+		{
+			{name point_2_2}
+			{landscape wood}
+			{gamemode campaign_capture_the_flag}
+			{ownerTeam b}
+			{adjacentMaps {"point_1_2" "hq_b"}}
+			{risk low}
+			{reward none}
+		}
+		{
+			{name point_2_3}
+			{landscape desert}
+			{gamemode campaign_capture_the_flag}
+			{ownerTeam b}
+			{adjacentMaps {"point_1_2" "point_1_3" "hq_b"}}
+			{risk low}
+			{reward none}
+		}
+	}
+	{history {
+			{mappointname hq_a}
+			{result 1}
+		}
+		{
+			{mappointname hq_a}
+			{result 1}
+		}
+		{
+			{mappointname hq_a}
+			{result 1}
+		}
+		{
+			{mappointname hq_a}
+			{result 1}
+		}
+		{
+			{mappointname hq_a}
+			{result 1}
+		}
+		{
+			{mappointname hq_a}
+			{result 1}
+		}
+		{
+			{mappointname hq_a}
+			{result 1}
+		}
+		{
+			{mappointname hq_a}
+			{result 1}
+		}
+		{
+			{mappointname hq_a}
+			{result 1}
+		}
+		{
+			{mappointname hq_a}
+			{result 1}
+		}
+		{
+			{mappointname hq_a}
+			{result 1}
+		}
+	}
+	{roundsHistory}
+}

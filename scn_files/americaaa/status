@@ -1,0 +1,390 @@
+{saveinfo
+	{version 7}
+	{gameVersion "1.035.0"}
+	{timestamp 1703123509}
+	{mods
+		"mod_2515872768:0"
+	}
+	{mp 18979.4}
+	{sp 28.75}
+	{ap 19894.4}
+	{rp 15}
+	{seed 3509898129}
+	{name AMERICAAA}
+	{army usa}
+	{enemyArmy ger}
+	{difficulty hard}
+	{duration 3}
+	{resources 3}
+	{fogofwar fog_realistic}
+	{manualControlMode 3}
+	{selectedMapPoint point_5_4}
+	{attacking}
+	{region west}
+	{unlockedResearch {"m3_stuart_early"}
+		{"m3_stuart_late"}
+		{"m3a1_stuart"}
+		{"squad_rifle_con(usa)"}
+		{"defense_level_1"}
+		{"reinforcement_stage_2"}
+		{"cckw_art_ammo"}
+		{"m3_lee"}
+		{"reinforcement_stage_3"}
+		{"squad_officer_con(usa)"}
+		{"105mm_m2a1_smoke_barrage"}
+		{"conquest_p47_recon"}
+		{"m4a1_75_early"}
+		{"m4a1_75_mid"}
+		{"squad_vet_rifle_con(usa)"}
+		{"reinforcement_stage_4"}
+		{"single_ap_miner(usa)"}
+		{"single_at_miner(usa)"}
+		{"single_engineer(usa)"}
+		{"single_flamer(usa)"}
+		{"squad_82nd_con(usa)"}
+		{"squad_82nd_glider_con(usa)"}
+		{"squad_82nd_glider_pio_con(usa)"}
+		{"squad_officer_m3a1_commander_con"}
+		{"defense_level_2"}
+		{"single_at_con(usa)"}
+		{"single_riflegrenade2_con(usa)"}
+		{"squad_82nd_eng_con(usa)"}
+		{"m4a1_75_late"}
+		{"m4a1_75_mid_armor"}
+		{"m4a1_76w"}
+		{"m4a1_76w_mid"}
+		{"squad_101st_con(usa)"}
+		{"defense_level_3"}
+		{"105mm_m2a1"}
+		{"75mm_m3a3"}
+		{"114mm_m1"}
+		{"155mm_gpf_us"}
+		{"155mm_m1"}
+		{"155mm_schneider_us"}
+		{"155mm_m1a1_longtom"}
+		{"m12_gmc"}
+		{"m7_hmc"}
+		{"m7b1_hmc"}
+		{"t19_hmc"}
+		{"m4_75_early"}
+		{"m4_75_early_armor"}
+		{"m4_75_late"}
+		{"reinforcement_stage_5"}
+		{"squad_officer_m3a1_halftrack_con"}
+		{"m1917_30cal"}
+		{"m4a3_75_late"}
+		{"m4a3_75w"}
+		{"m4a3_75w_early"}
+		{"m4a3_76w"}
+		{"m4a3_76w_hvss"}
+		{"50cal_quad_m45"}
+		{"m13_mgmc"}
+		{"m15a1_cgmc"}
+		{"m16_mgmc"}
+		{"m2_halftrack"}
+		{"m3a1_halftrack"}
+		{"m4a3e2_75"}
+		{"m3_halftrack"}
+		{"squad_1st_arm_recon_con(usa)"}
+		{"squad_1st_arm_rifle_con(usa)"}
+		{"squad_82nd_recon_con(usa)"}
+		{"squad_cav_late_con1(usa)"}
+		{"squad_cav_late_con2(usa)"}
+		{"squad_ranger_assault_con(usa)"}
+		{"m10_gmc"}
+		{"m18_hellcat"}
+		{"m36_gmc"}
+		{"1st_special_con(usa)"}
+		{"57mm_m1"}
+		{"57mm_m1_late"}
+		{"75mm_m1897"}
+		{"squad_ranger_assault_mg_con(usa)"}
+		{"76mm_m5_m1"}
+		{"76mm_m5_m6"}
+		{"m2_30cal_tripod"}
+		{"m2_50cal_tripod"}
+		{"m36b1_gmc"}
+		{"m4a3e2_76"}
+		{"squad_mp_con(usa)"}
+	}
+	{mapPoints {
+			{name hq_a}
+			{landscape wood}
+			{gamemode campaign_capture_the_flag}
+			{ownerTeam a}
+			{adjacentMaps {"point_1_1" "point_1_3"}}
+			{risk low}
+			{reward none}
+		}
+		{
+			{name hq_b}
+			{landscape wood}
+			{gamemode campaign_capture_the_flag}
+			{ownerTeam b}
+			{adjacentMaps {"point_6_3" "point_6_1"}}
+			{risk low}
+			{reward none}
+		}
+		{
+			{name point_1_1}
+			{landscape winter}
+			{gamemode campaign_capture_the_flag}
+			{ownerTeam a}
+			{adjacentMaps {"hq_a" "point_2_2" "point_2_1"}}
+			{risk low}
+			{reward none}
+		}
+		{
+			{name point_1_3}
+			{landscape desert}
+			{gamemode campaign_capture_the_flag}
+			{ownerTeam a}
+			{adjacentMaps {"hq_a" "point_2_2" "point_2_4"}}
+			{risk low}
+			{reward none}
+		}
+		{
+			{name point_2_1}
+			{landscape winter}
+			{gamemode campaign_capture_the_flag}
+			{ownerTeam a}
+			{adjacentMaps {"point_1_1" "point_3_2"}}
+			{risk high}
+			{reward none}
+			{texmod winter}
+		}
+		{
+			{name point_2_2}
+			{landscape wood}
+			{gamemode campaign_capture_the_flag}
+			{ownerTeam a}
+			{adjacentMaps {"point_1_1" "point_1_3" "point_3_2" "point_3_4" "point_3_3"}}
+			{risk standard}
+			{reward none}
+			{texmod camo}
+		}
+		{
+			{name point_2_4}
+			{landscape desert}
+			{gamemode campaign_capture_the_flag}
+			{ownerTeam a}
+			{adjacentMaps {"point_1_3" "point_3_4" "point_3_5"}}
+			{risk standard}
+			{reward none}
+			{texmod camo}
+		}
+		{
+			{name point_3_2}
+			{landscape wood}
+			{gamemode campaign_capture_the_flag}
+			{ownerTeam a}
+			{adjacentMaps {"point_2_2" "point_2_1" "point_4_2" "point_4_3" "point_4_1"}}
+			{risk standard}
+			{reward none}
+			{texmod camo}
+		}
+		{
+			{name point_3_3}
+			{landscape wood}
+			{gamemode campaign_capture_the_flag}
+			{ownerTeam a}
+			{adjacentMaps {"point_2_2" "point_4_3"}}
+			{risk standard}
+			{reward none}
+			{texmod camo}
+		}
+		{
+			{name point_3_4}
+			{landscape wood}
+			{gamemode campaign_capture_the_flag}
+			{ownerTeam a}
+			{adjacentMaps {"point_2_2" "point_2_4" "point_4_3" "point_4_4"}}
+			{risk high}
+			{reward none}
+			{texmod camo}
+		}
+		{
+			{name point_3_5}
+			{landscape desert}
+			{gamemode campaign_capture_the_flag}
+			{ownerTeam a}
+			{adjacentMaps {"point_2_4" "point_4_4"}}
+			{risk high}
+			{reward none}
+			{texmod camo}
+		}
+		{
+			{name point_4_1}
+			{landscape winter}
+			{gamemode campaign_capture_the_flag}
+			{ownerTeam a}
+			{adjacentMaps {"point_3_2" "point_5_2"}}
+			{risk low}
+			{reward none}
+			{texmod winter}
+		}
+		{
+			{name point_4_2}
+			{landscape wood}
+			{gamemode campaign_capture_the_flag}
+			{ownerTeam a}
+			{adjacentMaps {"point_3_2" "point_5_2"}}
+			{risk low}
+			{reward none}
+			{texmod camo}
+		}
+		{
+			{name point_4_3}
+			{landscape wood}
+			{gamemode campaign_capture_the_flag}
+			{ownerTeam a}
+			{adjacentMaps {"point_3_2" "point_3_4" "point_3_3" "point_5_2" "point_5_3"}}
+			{risk standard}
+			{reward none}
+			{texmod camo}
+		}
+		{
+			{name point_4_4}
+			{landscape wood}
+			{gamemode campaign_capture_the_flag}
+			{ownerTeam a}
+			{adjacentMaps {"point_3_4" "point_3_5" "point_5_4" "point_5_3"}}
+			{risk standard}
+			{reward none}
+			{texmod camo}
+		}
+		{
+			{name point_5_2}
+			{landscape wood}
+			{gamemode campaign_capture_the_flag}
+			{ownerTeam a}
+			{adjacentMaps {"point_4_2" "point_4_3" "point_4_1" "point_6_3" "point_6_1"}}
+			{risk standard}
+			{reward none}
+			{texmod camo}
+		}
+		{
+			{name point_5_3}
+			{landscape desert}
+			{gamemode campaign_capture_the_flag}
+			{ownerTeam a}
+			{adjacentMaps {"point_4_3" "point_4_4" "point_6_3"}}
+			{risk high}
+			{reward none}
+			{texmod camo}
+		}
+		{
+			{name point_5_4}
+			{landscape desert}
+			{gamemode campaign_capture_the_flag}
+			{ownerTeam b}
+			{adjacentMaps {"point_4_4" "point_6_3"}}
+			{risk standard}
+			{reward research}
+			{map "multi/dcg_la_vallee:campaign_capture_the_flag:4x4"}
+			{texmod camo}
+		}
+		{
+			{name point_6_1}
+			{landscape winter}
+			{gamemode campaign_capture_the_flag}
+			{ownerTeam b}
+			{adjacentMaps {"point_5_2" "hq_b"}}
+			{risk standard}
+			{reward none}
+			{texmod winter}
+		}
+		{
+			{name point_6_3}
+			{landscape desert}
+			{gamemode campaign_capture_the_flag}
+			{ownerTeam b}
+			{adjacentMaps {"point_5_2" "point_5_4" "point_5_3" "hq_b"}}
+			{risk low}
+			{reward none}
+			{texmod camo}
+		}
+	}
+	{history {
+			{mappointname point_2_2}
+			{result 1}
+		}
+		{
+			{mappointname point_2_2}
+			{result 1}
+		}
+		{
+			{mappointname point_3_3}
+			{result 1}
+		}
+		{
+			{mappointname point_2_2}
+			{result 1}
+		}
+		{
+			{mappointname point_3_4}
+			{result 1}
+		}
+		{
+			{mappointname point_3_3}
+			{result 1}
+		}
+		{
+			{mappointname point_2_4}
+			{result 1}
+		}
+		{
+			{mappointname point_2_4}
+			{result 1}
+		}
+		{
+			{mappointname point_3_2}
+			{result 1}
+		}
+		{
+			{mappointname point_3_2}
+			{result 1}
+		}
+		{
+			{mappointname point_4_3}
+			{result 1}
+		}
+		{
+			{mappointname point_3_2}
+			{result 1}
+		}
+		{
+			{mappointname point_4_4}
+			{result 1}
+		}
+		{
+			{mappointname point_4_3}
+			{result 1}
+		}
+		{
+			{mappointname point_5_2}
+			{result 1}
+		}
+		{
+			{mappointname point_4_4}
+			{result 1}
+		}
+		{
+			{mappointname point_5_3}
+			{result 1}
+		}
+		{
+			{mappointname point_5_2}
+			{result 1}
+		}
+		{
+			{mappointname point_5_4}
+			{result 1}
+		}
+		{
+			{mappointname point_5_4}
+			{result 0}
+		}
+	}
+	{roundsHistory}
+}
